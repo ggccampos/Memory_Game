@@ -12,14 +12,16 @@ Aqui está um exemplo de como o jogo funciona:
 
 ---
 
-## 🎮 Funcionalidades
+## 📖 Como Jogar
 
-- Embaralhamento automático das cartas a cada partida  
-- Contagem de jogadas realizadas  
-- Feedback visual ao virar as cartas  
-- Design responsivo e intuitivo  
-- Reinício da partida sem recarregar a página  
+1. Clique em uma carta para virá-la.  
+2. Clique em outra carta para tentar formar um par.  
+3. Se as cartas forem iguais ✅, elas permanecerão viradas.  
+4. Se forem diferentes ❌, ambas voltarão para a posição inicial após alguns segundos.  
+5. Continue virando cartas até encontrar todos os pares.  
+6. Tente finalizar o jogo no **menor número de jogadas possível**.  
 
+💡 Dica: use a memória para lembrar onde estão as cartas já viradas!  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
